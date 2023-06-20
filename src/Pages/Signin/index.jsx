@@ -1,8 +1,10 @@
+import Layout from "../../components/Layout"
+
 function Signin() {
     return (
-    <div className='bg-red-100'>
+    <Layout>
        Signin
-    </div>
+    </Layout>
     )
     }
     export default Signin
